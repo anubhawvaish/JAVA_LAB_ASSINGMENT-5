@@ -70,7 +70,7 @@ rollNo,name,email,course,marks
 
 Example:
 
-101,Aryan,aryan@mail.com,B.Tech,92.0
+101,Rahul,rahul@mail.com,B.Tech,85.0
 
 🏗 Class Structure Person (abstract class)
 
@@ -165,4 +165,4 @@ Building modular, scalable applications
 
 👨‍💻 Author
 
-Your Name Aryaveer Singh 2401010273 B.Tech CSE K.R. Mangalam University
+Your Name ANUBHAW VAISH, 2401010218 B.Tech CSE K.R. Mangalam University
